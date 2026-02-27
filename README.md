@@ -1,4 +1,4 @@
-### Hi there 👋, Ich bin Rasel Miah
+### Hallo!👋, Ich bin Rasel Miah
 #### Fachinformatiker Anwendungsentwicklung 
 👋 Hi! I'm Rasel Miah, currently training as a Certified IT Specialist in Application Development (Fachinformatiker für Anwendungsentwicklung).
 
