@@ -1,6 +1,6 @@
-### Hi 👋, Ich bin Rasel Miah
+### Hi there 👋, Ich bin Rasel Miah
 #### Fachinformatiker Anwendungsentwicklung 
-https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/641784331_3668729413268875_5457240476474411331_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=mAsCD7NwGYYQ7kNvwHG0Q-v&_nc_oc=AdkIIGCTUxOntyFZuIERLcZMrLcNV8yNkd-VTJ_--dh8aqe_Cv2m4UssI4tGbxlhsH3JTSOdSQvvF_OEWBYCMRf2&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=aR3FyteKBApd2-IpqbN37Q&oh=00_AfsZQQUPrQH094JCB-DtbfrtpZU6MYU8QXbsTS12dzb_nw&oe=69A735FB
+![Fachinformatiker Anwendungsentwicklung ](https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/641784331_3668729413268875_5457240476474411331_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=mAsCD7NwGYYQ7kNvwHG0Q-v&_nc_oc=AdkIIGCTUxOntyFZuIERLcZMrLcNV8yNkd-VTJ_--dh8aqe_Cv2m4UssI4tGbxlhsH3JTSOdSQvvF_OEWBYCMRf2&_nc_zt=23&_nc_ht=scontent-ber1-1.xx&_nc_gid=aR3FyteKBApd2-IpqbN37Q&oh=00_AfsZQQUPrQH094JCB-DtbfrtpZU6MYU8QXbsTS12dzb_nw&oe=69A735FB)
 
 👋 Hi! I'm Rasel Miah, currently training as a Certified IT Specialist in Application Development (Fachinformatiker für Anwendungsentwicklung).
 
