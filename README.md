@@ -1,23 +1,68 @@
-### Hallo!👋, Ich bin Rasel Miah
-#### Fachinformatiker Anwendungsentwicklung 
-👋 Hi! I'm Rasel Miah, currently training as a Certified IT Specialist in Application Development (Fachinformatiker für Anwendungsentwicklung).
+# 👋 Hallo, ich bin Rasel Miah
 
-💻 During my retraining, I'm diving deep into software development, databases, and web technologies. I'm passionate about modern frameworks, clean code design, and building practical software solutions to solve real-world problems.
+## 💻 Über mich
 
-🚀 This GitHub showcases my training projects along with personal experiments where I explore new technologies and tools.
+Ich bin **Rasel Miah** und absolviere derzeit eine **Umschulung zum Fachinformatiker für Anwendungsentwicklung** bei der **GPB Berlin**.
 
-📚 I'm always eager to learn more and welcome feedback, collaboration, or networking opportunities!
+Ich begeistere mich für Softwareentwicklung und arbeite kontinuierlich daran, meine Programmierkenntnisse durch praktische Projekte und neue Technologien zu erweitern.
 
-✉️ Feel free to reach out via GitHub.
+---
 
-Skills: HTML / CSS / JAVA /  SQL / UBUNTU  
+## 🚀 Kenntnisse
 
-- 🔭 I’m currently working on Linux 
-- 🌱 I’m currently learning Ubuntu 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Application Development 
-- 📫 How to reach me: mahdirasel84@gmail.com 
+### Programmiersprachen
 
+* HTML5
+* CSS3
+* PHP
+* SQL / MySQL
+* C#
+* C (Grundlagen)
+* Java (Grundlagen)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/github.com/raselalways)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/facebook.com/mahdi.rasel.7)  
+### Weitere Kenntnisse
 
+* Linux
+* Relationale Datenbanken
+* Systemanalyse
+* Agile Projektmanagement
+* Git & GitHub
+* Microsoft Excel & PowerPoint
+
+---
+
+## 📚 Aktuell lerne ich
+
+* JavaScript
+* Fortgeschrittenes C#
+* PHP-Webentwicklung
+* Objektorientierte Programmierung
+* Softwareentwicklung mit modernen Best Practices
+
+---
+
+## 🛠️ Projekte
+
+Hier findest du einige meiner Projekte:
+
+* 📂 Portfolio Website
+* 🧮 BMI-Rechner
+* 📦 Getränkeautomat
+* 🔧 Preisberechnung für Schrauben, Muttern und Unterlegscheiben
+* 💻 Weitere Übungs- und Lernprojekte
+
+---
+
+## 🎯 Mein Ziel
+
+Mein Ziel ist es, nach meiner Umschulung als **Junior Softwareentwickler / Webentwickler** zu arbeiten und innovative Softwarelösungen zu entwickeln.
+
+Ich freue mich darauf, neue Technologien kennenzulernen, an spannenden Projekten mitzuwirken und mich als Entwickler kontinuierlich weiterzuentwickeln.
+
+---
+
+## 📫 Kontakt
+
+GitHub: https://github.com/raselalways
+
+Vielen Dank für deinen Besuch auf meinem GitHub-Profil! ⭐
